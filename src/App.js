@@ -5,7 +5,7 @@ import React from 'react';
 const App = () => {
 
   const helloworld = () => {
-    console.log('HelloWorld')
+    alert('HelloWorld');
   }
 
 
